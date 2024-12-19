@@ -2,8 +2,5 @@ node_modules
 package-lock.json
 package.json
 config.json
-message.txt
-marry.js
-gamen.js
 .env
 .example
